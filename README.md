@@ -25,5 +25,11 @@ There are three tabs in the Retail.xlsx excel file – Stores, Sales, and MarkDo
 A Tableau dashboard is created that can help analyze the sales patterns across stores and their departments.<br/>
 The dashboard consists of two controls that will work across entrie dashboard: <br/>
 - A Month,Year filter
-- A user control to select either one of the five markdowns or total markdown
+- A user control to select either one of the five markdowns or total markdown <br/>
+
+***The dashboard consists of three visualisations*** <br/>
+- a dual-axis visualization showing sales & markdowns by week
+  - sales during holiday weeks should be colored differently from sales during non-holiday weeks
+- a dual-axis visualization showing sales & markdowns by store 
+- a visualization showing top five departments by sales within each store
 
