@@ -27,7 +27,7 @@ The dashboard consists of two controls that will work across entrie dashboard: <
 - A Month,Year filter
 - A user control to select either one of the five markdowns or total markdown <br/>
 
-***The dashboard consists of three visualisations*** <br/>
+***The dashboard consists of three visualisations-*** <br/>
 - a dual-axis visualization showing sales & markdowns by week
   - sales during holiday weeks should be colored differently from sales during non-holiday weeks
 - a dual-axis visualization showing sales & markdowns by store 
