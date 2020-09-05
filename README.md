@@ -1,4 +1,4 @@
-# Retail-Store-Visualisation-and-Analysis
+# Retail-Stores-Visualisation-and-Analysis
 ## About Data
 The dataset (Retail.xlsx) contains anonymized weekly sales data for 45 stores of a retail corporation that operates a chain of hypermarkets, discount stores and neighborhood stores. The data is available from the week of 11/11/2011 to the week of 26/10/2012. The stores offer five types of markdowns or discounts throughout the period of one-year. <br/>
 There were four holiday weeks – 25/11/2011, 30/12/2011, 10/02/2012, 07/09/2012 in this one-year period. <br/>
@@ -32,4 +32,9 @@ The dashboard consists of two controls that will work across entrie dashboard: <
   - sales during holiday weeks should be colored differently from sales during non-holiday weeks
 - a dual-axis visualization showing sales & markdowns by store 
 - a visualization showing top five departments by sales within each store
+
+## Retail Stores Visualisation - Dashboard
+A sample view of the Tableau dashboard for Retail Stores analysis
+
+![Image of Retail store Visualisation-Dashboard](https://github.com/yogeshwaran-shanmuganathan/Retail-Store-Visualisation-and-Analysis/blob/master/Retail%20Stores%20Visualisation-Dashboard.png)
 
